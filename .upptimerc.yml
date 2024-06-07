@@ -13,6 +13,8 @@ sites:
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
     url: forwardemail.net
+  - name: Account Book
+    url:  https://65eb-38-59-246-55.ngrok-free.app  
     port: 80
     check: "tcp-ping"
     ipv6: true
