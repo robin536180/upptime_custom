@@ -14,7 +14,7 @@ sites:
   - name: IPv6 test
     url: forwardemail.net
   - name: Account Book
-    url: https://70vtcrrz-80.usw2.devtunnels.ms
+    url: https://70vtcrrz-80-inspect.usw2.devtunnels.ms
     port: 80
     check: "tcp-ping"
     ipv6: true
