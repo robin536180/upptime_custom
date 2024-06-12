@@ -19,7 +19,7 @@ sites:
   - name: Account Book
     url: https://tqxwt2n3-80.usw2.devtunnels.ms
   - name: Allpo
-    url: https://agent.allpo.com.au
+    url: https://agent.dev.allpo.com.au
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
