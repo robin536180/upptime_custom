@@ -17,7 +17,7 @@ sites:
     check: "tcp-ping"
     ipv6: true
   - name: Account Book
-    url: https://70vtcrrz-80-inspect.usw2.devtunnels.ms
+    url: https://tqxwt2n3-80.usw2.devtunnels.ms
   - name: Allpo
     url: https://agent.allpo.com.au
 
