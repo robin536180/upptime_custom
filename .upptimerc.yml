@@ -17,7 +17,7 @@ sites:
     check: "tcp-ping"
     ipv6: true
   - name: Account Book
-    url: https://d3c30098b01aa44b1a2ffc2885fff551.loophole.site
+    url: https://94d35a27f037b723ddec5ba46999d027.loophole.site
   - name: Allpo
     url: https://agent.dev.allpo.com.au
 
