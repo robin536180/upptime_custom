@@ -1,7 +1,7 @@
 url: https://agent.dev.allpo.com.au
-status: up
-code: 200
-responseTime: 1056
-lastUpdated: 2024-09-30T23:22:43.955Z
+status: down
+code: 503
+responseTime: 890
+lastUpdated: 2024-10-01T02:34:33.897Z
 startTime: 2024-06-11T06:19:54.538Z
 generator: Upptime <https://github.com/upptime/upptime>
